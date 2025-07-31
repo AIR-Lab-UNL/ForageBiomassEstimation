@@ -1,13 +1,13 @@
 # ForageBiomassEstimation   
 Codes and example data for forage biomass estimation with Random Forest Regression for our reserach publication of   
 
-"Forage biomass estimation using UAV-based remote sensing and machine learning: A tool for assessing management practices" on Ecological Informatics.   
+**"Forage biomass estimation using UAV-based remote sensing and machine learning: A tool for assessing management practices"** on __Ecological Informatics__.   
 
 This peer-reviewed publication can be found:   
 
 https://doi.org/10.1016/j.ecoinf.2025.103361 or https://www.sciencedirect.com/science/article/pii/S157495412500370X?via%3Dihub   
 
-If you find our codes and example valua for you, please cite our paper. Thank you!   
+If you find our codes and example are useful to you, please cite our paper. Thank you!   
 
 
 # There were two steps   
